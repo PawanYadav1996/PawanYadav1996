@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PawanYadav1996
-- 👀 I’m interested helping other angular developers.
+- 👋 Hi, I’m @PawanYadav1996 working as an angular, react, and remotion UX designer.
+- 👀 I’m interested in helping other angular developers.
 - 🌱 I’m currently learning ...Next.js
 - 📫 How to reach me ...
 
